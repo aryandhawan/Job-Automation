@@ -1,0 +1,7 @@
+llm:
+  model_name: "llama-3.3-70b-versatile"
+  temperature: 0.2
+
+adzuna:
+  country: "in"
+  results_per_page: 20
