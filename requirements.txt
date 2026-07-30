@@ -5,3 +5,4 @@ python-dotenv
 pyyaml
 pydantic
 langchain-core
+streamlit
