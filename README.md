@@ -37,7 +37,7 @@ Listings from one search are similar enough in shape that judging them together 
 
 ## Architecture flowchart
 
-![Architecture flowchart] (Architecture_flowchart.png)
+![Architecture flowchart](Architecture_flowchart.png)
 
 ---
 
