@@ -1,0 +1,7 @@
+groq
+langchain-groq
+requests
+python-dotenv
+pyyaml
+pydantic
+langchain-core
